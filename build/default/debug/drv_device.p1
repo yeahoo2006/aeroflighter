@@ -1,0 +1,85 @@
+Version 3.2 HI-TECH Software Intermediate Code
+"52 drv_device.c
+[p x FOSC=HSHP ]
+"53
+[p x PLLCFG=OFF ]
+"54
+[p x FCMEN=ON ]
+"55
+[p x PRICLKEN=ON ]
+"56
+[p x IESO=OFF ]
+"58
+[p x PWRTEN=OFF ]
+"59
+[p x BOREN=OFF ]
+"60
+[p x BORV=190 ]
+"64
+[p x WDTEN=SWON ]
+"65
+[p x WDTPS=64 ]
+"71
+[p x CCP2MX=PORTB3 ]
+"72
+[p x PBADEN=ON ]
+"73
+[p x CCP3MX=PORTB5 ]
+"74
+[p x HFOFST=ON ]
+"75
+[p x T3CMX=PORTC0 ]
+"76
+[p x P2BMX=PORTD2 ]
+"77
+[p x MCLRE=EXTMCLR ]
+"79
+[p x STVREN=ON ]
+"80
+[p x LVP=OFF ]
+"81
+[p x XINST=OFF ]
+"84
+[p x CP0=OFF ]
+"85
+[p x CP1=OFF ]
+"86
+[p x CP2=OFF ]
+"87
+[p x CP3=OFF ]
+"94
+[p x CPB=OFF ]
+"95
+[p x CPD=OFF ]
+"98
+[p x WRT0=OFF ]
+"99
+[p x WRT1=OFF ]
+"100
+[p x WRT2=OFF ]
+"101
+[p x WRT3=OFF ]
+"108
+[p x WRTC=OFF ]
+"109
+[p x WRTB=OFF ]
+"110
+[p x WRTD=OFF ]
+"113
+[p x EBTR0=OFF ]
+"114
+[p x EBTR1=OFF ]
+"115
+[p x EBTR2=OFF ]
+"116
+[p x EBTR3=OFF ]
+"123
+[p x EBTRB=OFF ]
+"127
+[p x IDLOC0=0x0 ]
+"128
+[p x IDLOC1=0xA ]
+"129
+[p x IDLOC2=0xB ]
+"130
+[p x IDLOC3=0xB ]

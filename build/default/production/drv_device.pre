@@ -1,0 +1,76 @@
+
+# 1 "drv_device.c"
+
+
+# 52
+#pragma config FOSC = HSHP
+#pragma config PLLCFG = 0
+#pragma config FCMEN = 1
+#pragma config PRICLKEN = ON
+#pragma config IESO = OFF
+
+#pragma config PWRTEN = OFF
+#pragma config BOREN = OFF
+#pragma config BORV = 190
+
+
+
+#pragma config WDTEN = SWON
+#pragma config WDTPS = 64
+
+
+
+
+
+#pragma config CCP2MX = PORTB3
+#pragma config PBADEN = ON
+#pragma config CCP3MX = PORTB5
+#pragma config HFOFST = ON
+#pragma config T3CMX = PORTC0
+#pragma config P2BMX = PORTD2
+#pragma config MCLRE = EXTMCLR
+
+#pragma config STVREN = ON
+#pragma config LVP = OFF
+#pragma config XINST = OFF
+
+
+#pragma config CP0 = 1
+#pragma config CP1 = 1
+#pragma config CP2 = 1
+#pragma config CP3 = 1
+
+
+# 94
+#pragma config CPB = 1
+#pragma config CPD = 1
+
+
+#pragma config WRT0 = 1
+#pragma config WRT1 = 1
+#pragma config WRT2 = 1
+#pragma config WRT3 = 1
+
+
+# 108
+#pragma config WRTC = 1
+#pragma config WRTB = 1
+#pragma config WRTD = 1
+
+
+#pragma config EBTR0 = 1
+#pragma config EBTR1 = 1
+#pragma config EBTR2 = 1
+#pragma config EBTR3 = 1
+
+
+# 123
+#pragma config EBTRB = 1
+
+
+
+#pragma config IDLOC0 = 0x00
+#pragma config IDLOC1 = 0x0A
+#pragma config IDLOC2 = 0x0B
+#pragma config IDLOC3 = 0x0B
+

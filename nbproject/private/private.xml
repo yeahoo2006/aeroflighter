@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1">
+        <file>
+            <url>api.h</url>
+            <line>13</line>
+        </file>
+    </editor-bookmarks>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>attitude.c</url>
+            <bookmark id="1">
+                <name/>
+                <line>10</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>api.h</url>
+            <bookmark id="0">
+                <name/>
+                <line>17</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Will/AeroFligter/AeroFlighter/Aeroflighter/drv_usart.c</file>
+            <file>file:/E:/Will/AeroFligter/AeroFlighter/Aeroflighter/lib_api.c</file>
+            <file>file:/E:/Will/AeroFligter/AeroFlighter/Aeroflighter/api.h</file>
+            <file>file:/E:/Will/AeroFligter/AeroFlighter/Aeroflighter/main.c</file>
+            <file>file:/E:/Will/AeroFligter/AeroFlighter/Aeroflighter/try.c</file>
+            <file>file:/E:/Will/AeroFligter/AeroFlighter/Aeroflighter/drv_isr.c</file>
+        </group>
+    </open-files>
+</project-private>
